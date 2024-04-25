@@ -1,0 +1,26 @@
+.list {
+    padding: 30px;
+ }
+ 
+
+ .item {
+    display: flex;
+    align-items: center; /* Optional: Align flex items vertically */
+}
+ 
+.bullet {
+    width: 5px; /* Adjust the width of the bullet point */
+    height: 5px; /* Adjust the height of the bullet point */
+    background-color: black; /* Customize the bullet point color */
+    border-radius: 50%; /* Shape the bullet point as a circle */
+    margin-right: 15px; /* Optional: Adjust the space between bullet point and text */
+}
+
+.btn {
+    margin-left: 10px;
+}
+
+.number {
+    margin-left: 10px;
+}
+ 
